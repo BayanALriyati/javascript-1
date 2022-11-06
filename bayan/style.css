@@ -67,8 +67,55 @@ nav{
     margin-left:  40px;
 
 }
+#top{
+    margin-top: 50px;
+}
+.center {
+    text-align: center;
+    color: aliceblue;
+    font-weight: 20px;
+    font-size:xx-large;
+    padding-top:30px ;
+    padding-bottom: 15px;
 
+}
+#color {
+    text-align: center; 
+    font-family: sans-serif;
+    color: orange;
+    font-weight: bolder;
+    font-size: 90px;
+    padding-top: 15px;
+    padding-bottom:15px ;
 
+}
+#width  {
+    width:  813px;
+    text-align: center;
+    color: aliceblue;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    font-size: 23px;
+}
+#web {
+    font-size: large;
+    text-decoration-line: underline  ;
+    color: aliceblue;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+#web:hover{
+    transition: 0.2s;
+    color: rgb(194, 189, 189);
+}
+.img {
+    border: 10px solid orange;
+    border-radius:1000px ;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 0px;
+}
 
 
 
