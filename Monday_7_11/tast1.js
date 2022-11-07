@@ -49,7 +49,7 @@ greet ("Bayan");
 greet ("Ahmad");
 
 
-// // 
+// // // 
 
 5
 function double(i) {
@@ -68,9 +68,9 @@ function double(i) {
   double()
 
 
-// // 
+// // // 
 
-// 6
+// // 6
 
 
 
@@ -88,12 +88,13 @@ cube(7);
 // // 
 
 8
+
 function multiplyBy(num1,num2)
 {
         result=num1*num2
         console.log(result);
 }   
-multiplyBy(prompt(),prompt())
+// multiplyBy(prompt(),prompt())
 multiplyBy(100,50)
 multiplyBy(10,2)
 
@@ -115,10 +116,11 @@ function canIGetADrivingLicense (age) {
     }
 
 }
-canIGetADrivingLicense(prompt())
+// canIGetADrivingLicense(prompt())
+canIGetADrivingLicense (30)
+canIGetADrivingLicense (10)
 
-
-// // 
+// // // 
 
 10
 
@@ -133,11 +135,11 @@ function sameLength (a , b) {
     }
 
 }
-sameLength(prompt() , prompt())
+// sameLength(prompt() , prompt())
 sameLength('tree' , 'clue')
+sameLength('tree' , 'car')
 
-
-// // 
+// // // 
 
 11
 
@@ -152,11 +154,11 @@ function largerNubmer (number1 , number2) {
     }
 
 }
-largerNubmer(prompt() , prompt())
+// largerNubmer(prompt() , prompt())
 largerNubmer( 1 , 2)
 
 
-// // 
+// // // 
 
 12
 
@@ -175,12 +177,12 @@ function smallerNubmer (number1 , number2 ,number3) {
     
 
 }
-smallerNubmer(prompt() , prompt() , prompt())
+// smallerNubmer(prompt() , prompt() , prompt())
 smallerNubmer( 20 , 10 , 8)
 
 
 // // 
 
-13
+// 13
 
 
